@@ -3,16 +3,7 @@ include_rules = [
   "+content/public/app",
   "+content/public/browser",
   "+content/public/common",
-  "+content/public/test",
-  "+components/keyed_service",
-  "+components/pref_registry/pref_registry_syncable.h",
-  "+components/sessions",
-  "+components/user_manager",
-  "+components/web_modal",
-  "+extensions",
-  "+net/base",
-  "+skia/ext",
-  "+third_party/skia/include",
+  "+content/pub
   "+ui",
   "+win8",
 
